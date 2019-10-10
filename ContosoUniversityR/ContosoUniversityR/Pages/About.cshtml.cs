@@ -10,9 +10,9 @@ namespace ContosoUniversityR.Pages
 {
     public class AboutModel : PageModel
     {
-        private readonly SchoolContext _context;
+        private readonly ContosoUniversityR.Data.SchoolContext _context;
 
-        public AboutModel(SchoolContext context)
+        public AboutModel(ContosoUniversityR.Data.SchoolContext context)
         {
             _context = context;
         }

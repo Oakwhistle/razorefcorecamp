@@ -11,9 +11,9 @@ namespace ContosoUniversityR.Pages.Students
 {
     public class DetailsModel : PageModel
     {
-        private readonly ContosoUniversityR.Models.SchoolContext _context;
+        private readonly ContosoUniversityR.Data.SchoolContext _context;
 
-        public DetailsModel(ContosoUniversityR.Models.SchoolContext context)
+        public DetailsModel(ContosoUniversityR.Data.SchoolContext context)
         {
             _context = context;
         }

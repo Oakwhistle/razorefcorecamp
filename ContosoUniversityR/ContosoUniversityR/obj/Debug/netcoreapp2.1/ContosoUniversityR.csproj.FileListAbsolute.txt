@@ -37,3 +37,13 @@ C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversit
 C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Create.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Delete.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Details.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Edit.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Courses\Index.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Instructors\Create.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Instructors\Delete.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Instructors\Details.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Instructors\Edit.cshtml.g.cs
+C:\Users\Oakwhistle\Source\GitPlace\razormvc\ContosoUniversityR\ContosoUniversityR\obj\Debug\netcoreapp2.1\Razor\Pages\Instructors\Index.cshtml.g.cs

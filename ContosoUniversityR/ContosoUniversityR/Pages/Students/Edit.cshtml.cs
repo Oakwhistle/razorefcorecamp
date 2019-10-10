@@ -12,9 +12,9 @@ namespace ContosoUniversityR.Pages.Students
 {
     public class EditModel : PageModel
     {
-        private readonly SchoolContext _context;
+        private readonly ContosoUniversityR.Data.SchoolContext _context;
 
-        public EditModel(SchoolContext context)
+        public EditModel(ContosoUniversityR.Data.SchoolContext context)
         {
             _context = context;
         }

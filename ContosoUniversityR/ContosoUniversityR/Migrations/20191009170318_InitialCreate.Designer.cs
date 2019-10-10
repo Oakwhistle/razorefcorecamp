@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ContosoUniversityR.Migrations
 {
-    [DbContext(typeof(SchoolContext))]
+    [DbContext(typeof(ContosoUniversityR.Data.SchoolContext))]
     [Migration("20191009170318_InitialCreate")]
     partial class InitialCreate
     {
